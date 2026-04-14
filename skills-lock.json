@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "discovery-interview": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "6f194cd10649bdcb62823f0ae3c43070dad725af451e9de8cc6a9b1404b98656"
+    },
+    "frontend-design": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "ac8146b14b32a4e748b54004e82a4795ff23c0d24612b63913cda192be0ae873"
+    },
+    "fullstack-developer": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "d824d75875b289753740c12ba33c005a40f0d996f12d3424cabf1ef9ad4cd1a3"
+    },
+    "ui-ux-pro-max": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "8cd1b83a60e8d0a95c332d2baeffad9053617b286beb96bbe13e818507343f47"
+    }
+  }
+}
